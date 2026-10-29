@@ -1,5 +1,5 @@
-# About Me:
-I'm currently working on<br> Data Science and Data Analytics projects<br> Python programming and problem-solving<br> Interactive Python projects using Streamlit<br><br>I'm looking to collaborate on<br> Data Analysis and Exploratory Data Analysis (EDA)<br> Python projects and beginner-friendly open-source contributions<br> Innovative projects and hackathons<br><br>I'm looking for help with<br> Improving my Data Science and Machine Learning skills<br> Learning SQL and database management<br> Building real-world data analytics projects<br><br>I'm currently learning<br> Python for Data Science<br> Data Analytics and Data Visualization<br> Exploring Machine Learning<br><br>Ask me about<br> Python programming<br> Data Analytics and EDA<br> Beginner Python projects<br> Web Development fundamentals<br><br>Fun fact<br> I believe in learning by building projects and improving my coding skills every day!
+# ✨ About Me:
+👋 Hi, I'm Raushani Kumari! <br><br>I'm currently learning and building projects in Data Science and Data Analytics. I enjoy solving problems with Python, exploring datasets, and developing interactive applications using Streamlit.<br><br>### 🚀 I'm Currently Working On<br>-  Data Science and Data Analytics projects<br>-  Python programming and problem-solving<br>-  Interactive Python applications using Streamlit<br><br>### 🤝 I'm Looking to Collaborate On<br>-  Data Analysis and Exploratory Data Analysis (EDA)<br>-  Python projects and beginner-friendly open-source contributions<br>-  Innovative projects and hackathons<br><br>### 🌱  I'm Looking for Help With<br>-  Improving my Data Science and Machine Learning skills<br>-  Learning SQL and database management<br>-  Building real-world data analytics projects<br><br>### 🎯 I'm Currently Learning<br>-  Python for Data Science<br>-  Data Analytics and Data Visualization<br>-  Exploring Machine Learning<br><br>### 💬 Ask Me About<br>- Python programming<br>- Data Analytics and EDA<br>- Beginner Python projects<br>- Web Development fundamentals<br><br>### 💡 Fun Fact<br>I believe in learning by building projects and improving my coding skills every day!
 
 
 ## 🌐 Socials:
@@ -12,5 +12,7 @@ I'm currently working on<br> Data Science and Data Analytics projects<br> Python
 ![](https://streak-stats.demolab.com/?user=iamraushani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamraushani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamraushani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
