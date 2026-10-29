@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on<br> Data Science and Data Analytics projects<br> Python programming and problem-solving<br> Interactive Python projects using Streamlit<br><br>I'm looking to collaborate on<br> Data Analysis and Exploratory Data Analysis (EDA)<br> Python projects and beginner-friendly open-source contributions<br> Innovative projects and hackathons<br><br>I'm looking for help with<br> Improving my Data Science and Machine Learning skills<br> Learning SQL and database management<br> Building real-world data analytics projects<br><br>I'm currently learning<br> Python for Data Science<br> Data Analytics and Data Visualization<br> Exploring Machine Learning<br><br>Ask me about<br> Python programming<br> Data Analytics and EDA<br> Beginner Python projects<br> Web Development fundamentals<br><br>Fun fact<br> I believe in learning by building projects and improving my coding skills every day!
 
 
